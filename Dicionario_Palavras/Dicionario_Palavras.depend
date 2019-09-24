@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569320489 source:c:\users\20152094040247\desktop\dicionario_palavras\main.cpp
+	"dicionario.h"
+
+1569325433 c:\users\20152094040247\desktop\dicionario_palavras\dicionario.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<algorithm>
+	<locale.h>
+	<array>
+	<vector>
+	<ctype.h>
+
